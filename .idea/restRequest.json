@@ -1,0 +1,6 @@
+{
+  "uri": "http://127.0.0.1:8000/api/v1/tags?name\u003d7\u0026state\u003d1\u0026created_by\u003dtest",
+  "method": "POST",
+  "body": "",
+  "headers": {}
+}
